@@ -1,6 +1,8 @@
-#Comments can be used to explain python code.
-#Comments can be used to make code more readable.
-#Comments can be used to prevent execution when testing code.
+"""
+Comments can be used to explain python code.
+Comments can be used to make code more readable.
+Comments can be used to prevent execution when testing code.
+"""
 
 # Creating a comment
 # Comment starts with  a #, and python wil ignore them:

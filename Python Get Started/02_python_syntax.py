@@ -1,12 +1,14 @@
 # Python Indentation
 
-# Indentation refers to space at the beginning of a line of code
+"""
+Indentation refers to space at the beginning of a line of code.
+The indentation in python is very important in other languages it is only for readibility.
+Python uses indentation to indicate a block of code
 
-# The indentation in pytho i very important in other languages it is only for readibility
-
-# Python uses indentation to indicate a block of code
+"""
 
 # The code below works fine as it has proper indentation 
+
 if 5>2:
     print("Five is greater than two.(proper indentation)")
 
@@ -21,9 +23,11 @@ if 5>2:
     print("Five is greater than two.(Four spaces only)")
 
 # Python Variables 
-# In Python, variables are created when you assign a value to it.
-# Python has no command for declaring a variable
 
+"""
+In Python, variables are created when you assign a value to it.
+Python has no command for declaring a variable
+"""
 x = 5
 y = "Hello, World!"
 
